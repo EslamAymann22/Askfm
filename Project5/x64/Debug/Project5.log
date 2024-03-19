@@ -1,0 +1,5 @@
+﻿  Main.cpp
+C:\C++\Project5\Project5\Main.cpp(251,13): warning C4129: 'T': unrecognized character escape sequence
+C:\C++\Project5\Project5\Main.cpp(216,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\C++\Project5\Project5\Main.cpp(270,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Project5.vcxproj -> C:\C++\Project5\x64\Debug\ASKfm.exe
