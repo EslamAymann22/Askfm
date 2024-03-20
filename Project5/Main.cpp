@@ -335,8 +335,9 @@ int main() {
 				break;
 			}
 			else cout << "\nError!!\n";
+			upload_data(users, questions);
 		}
-#pragma endregion
+		#pragma endregion
 		
 		#pragma region  SystemOperations
 		if (cur_id < 1)break;
